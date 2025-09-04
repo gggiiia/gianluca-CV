@@ -32,6 +32,14 @@ export const experiences: Experience[] = [
         seeMoreUrl: "https://www.climbo.com/"
     },
     {
+        company: 'Lobesoft',
+        description: 'tech company of witch im cofounder, we made different projects spanning different industries',
+        logoUrl: 'https://storage.googleapis.com/cms.lobesoft.com/2019/12/cf376c64-logotipo.png',
+        logoBgColor: '#ffffff',
+        technologies: [react, angular, svelte, typescript,],
+        seeMoreUrl: "https://lobesoft.com/en"
+    },
+    {
         company: 'Emotiva',
         description: 'Worked on an Italian AI startup project integrating facial analysis into online surveys.',
         logoUrl: 'https://emotiva.it/wp-content/uploads/2021/11/Emotiva-logo-round-1.jpg',
@@ -46,14 +54,6 @@ export const experiences: Experience[] = [
         logoBgColor: '#00a6ff',
         technologies: [angular, typescript],
         seeMoreUrl: "https://app.befirstsocial.com/sign-in"
-    },
-    {
-        company: 'Lobesoft',
-        description: 'tech company of witch im cofounder, we made different projects spanning different industries',
-        logoUrl: 'https://storage.googleapis.com/cms.lobesoft.com/2019/12/cf376c64-logotipo.png',
-        logoBgColor: '#ffffff',
-        technologies: [react, angular, svelte, typescript,],
-        seeMoreUrl: "https://lobesoft.com/en"
     },
     {
         company: 'Macrigi',
