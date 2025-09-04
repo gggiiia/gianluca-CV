@@ -61,6 +61,6 @@ export const experiences: Experience[] = [
         logoUrl: 'https://www.macrigi.com/wp-content/uploads/2025/06/c65df3cd-2021-a-logo-per-macrigi.co_.uk_-300x75.png',
         logoBgColor: '#ffffff',
         technologies: [wordpress],
-        seeMoreUrl: "https://emotiva.it/en/the-leading-ai-platforms-for-creative-effectiveness-at-scale/"
+        seeMoreUrl: "https://www.macrigi.com/"
     },
 ];

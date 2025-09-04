@@ -61,7 +61,7 @@ export const ProfileCard: React.FC<ProfileCardProps> = ({ profile }) => {
       <div className="mt-8">
         <a
           href={`mailto:${profile.email}`}
-          className="w-full bg-blue-600 text-white font-bold py-3 px-4 rounded-xl text-center flex items-center justify-center gap-2 hover:bg-blue-700 transition-colors duration-300"
+          className="w-full bg-yellow-200 text-yellow-800 font-bold py-3 px-4 rounded-xl text-center flex items-center justify-center gap-2 hover:bg-yellow-300 transition-colors duration-300"
           aria-label="Contact me by email"
         >
           <MailIcon className="w-5 h-5" />
