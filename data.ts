@@ -25,7 +25,7 @@ export const profileData: Profile = {
 export const experiences: Experience[] = [
     {
         company: 'Climbo',
-        description: 'Italian startup focused on online reputation, i was lead front-end developer from 2020 until 2025',
+        description: 'Italian startup focused on online reputation, i was lead front-end developer from 2021 until 2025',
         logoUrl: 'https://images.clickfunnels.com/cdn-cgi/image/width=1000,fit=scale-down,f=auto,q=80/https://statics.myclickfunnels.com/workspace/erPzKR/image/7730138/file/2d847ce0be1867260ff4d3318ef5b041.png',
         logoBgColor: '#000000',
         technologies: [react, typescript, figma],
